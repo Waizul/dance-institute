@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    text-decoration: none;
+    background-color: rgb(230, 225, 233);
+    color: black;
+    height: 100px;
+    margin: 0;
+    font-size: large;
+    align-items: center;
+    
+}
+.navbar a {
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.feature {
+    list-style:none;
+    margin-left: 17%;
+}
+.feature h3{
+    color: indigo;
+}
+.feature p{
+    line-height: 1.8rem;
+    color:indigo
+}

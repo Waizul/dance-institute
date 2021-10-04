@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Ballet",
+		"img": "./image/ballet.png",
+		"price": "$39",
+		"description": "Ballet dance developed during the Italian Renaissance, before evolving in France and Russia into a concert dance meant for public performance. This is in the form of a ballet, in which the dance is choreographed with classical music."
+	},
+	{
+		"title": "Ballroom",
+		"img": "./image/ballroom.png",
+		"price": "$49",
+		"description": "Ballroom dance is a type of partner dance originating at the end of the sixteenth century in France. Commonly used as shorthand for any partner dance, ballroom has today evolved into two main subgenres – standard/smooth and Latin/rhythm."
+	},
+	{
+		"title": "Contemporary",
+		"img": "./image/contemporary.png",
+		"price": "$59",
+		"description": "Developed during the mid-twentieth century, contemporary dance is now one of the most popular and technical forms of dance studied and performed professionally, especially in the US and Europe."
+	},
+	{
+		"title": "Hip-Hop",
+		"img": "./image/hiphop.png",
+		"price": "$29",
+		"description": "Hip-hop dancing refers to a range of street dances that developed in relation to hip hop music and culture. Hip-hop dancing dates back to the early 1970s in New York and California, evolving out of Funk and the development of break beat."
+	},
+	{
+		"title": "Jazz",
+		"img": "./image/jazz.png",
+		"price": "$69",
+		"description": "Jazz dancing has its roots in seventeenth-century African traditions, brought to the Americas via the Atlantic slave trade as slaves continued dancing traditions in Brazil, the US and elsewhere on the continents."
+	},
+	{
+		"title": "Tap Dancing",
+		"img": "./image/tap.png",
+		"price": "$21",
+		"description": "Tap dancing is a type of percussive dance characterized by the “tap” of shoes hitting the floor as the person dances. Tap dancers often wear metal “taps” on the heel and toe of a shoe to accentuate the sound."
+	},
+	{
+		"title": "Folk Dance",
+		"img": "./image/folk.png",
+		"price": "$19",
+		"description": "Folk dancing is celebrated worldwide with people of different cultures and religions using various forms of folk dance to portray emotions, stories, historical events or even aspects of daily life."
+	},
+	{
+		"title": "Irish Dance",
+		"img": "./image/irish.png",
+		"price": "$39",
+		"description": "Originating in Ireland, this form of traditional dance has been popular for hundreds of years amongst Irish people and other countries worldwide. Popularized by shows such as Riverdance, Irish dancing is famously known for its fabulous display of footwork and dance formations."
+	},
+	{
+		"title": "Modern Dance",
+		"img": "./image/modern.png",
+		"price": "$39",
+		"description": "Considered as being a broad genre of dance, modern dance primarily arose from western countries such as the USA and Germany during the late 1900s. While most forms of dance are structured and feature set steps, the purpose of modern dance is to rely on the dancer’s interpretation of the music and feeling to guide movements."
+	},
+	{
+		"title": "Swing",
+		"img": "./image/swing.png",
+		"price": "$29",
+		"description": "Swing is a variation of jazz dance which developed between the 1920s to the 1940s as a response to the growing popularity of swing jazz in America. With the evolution of music that occurred during the Jazz era, dance also began to change with the likes of swing music encouraging faster, more rigorous movements."
+	}
+]
