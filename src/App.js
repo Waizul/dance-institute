@@ -8,6 +8,7 @@ import Features from './components/Features/Features';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
+import Nav from './components/Nav/Nav'
 import NotFound from './components/NotFound/NotFound';
 
 
@@ -17,6 +18,7 @@ function App() {
   return (
 		<div>
 			<Router>
+				<Nav></Nav>
 				<Header></Header>
 				<Switch>
 					<Route exact path='/'>

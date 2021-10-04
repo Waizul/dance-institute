@@ -1,12 +1,11 @@
 import React from 'react';
-import Nav from '../Nav/Nav';
 import headerImg from './../Image/header.jpg'
 import './Header.css'
 
 const Header = () => {
     return (
 		<div>
-			<Nav></Nav>
+			
 			<div className='header'>
 				<img src={headerImg} alt=''></img>
 
